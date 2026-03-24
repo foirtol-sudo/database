@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Westcall Database/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-24T12:11:49.842+03:00","updated":"2026-03-24T13:36:28.597+03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Westcall Database/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-24T12:11:49.842+03:00","updated":"2026-03-24T17:02:51.984+03:00","dg-note-properties":{}}
 ---
-
-
-
 
 
 # 📚 Database Westcall LTD
